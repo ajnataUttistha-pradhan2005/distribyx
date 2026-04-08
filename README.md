@@ -71,7 +71,6 @@ distribyx/
 │   ├── logs.sh             # View logs
 │   └── status.sh           # Check status
 │
-├── .env
 ├── .gitignore
 └── README.md
 ```
