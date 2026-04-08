@@ -1,4 +1,4 @@
-# Distribyx — Distributed Load-Balanced Microservices System
+# Distribyx — Distributed Backend System with Load Balancing & Observability
 
 ## Overview
 
